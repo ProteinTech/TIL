@@ -14,3 +14,4 @@ Her gün kullanmadığın aşina olmadığın bir programlama dili ile Sudoku ç
 | Kaynak Kod    | Dil           |
 | ------------- |:-------------:|
 |https://github.com/mennan/sudoku-solver|JavaScript|
+|https://github.com/skarahoda/sudoku-solver|TypeScript|
