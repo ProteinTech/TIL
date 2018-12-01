@@ -13,3 +13,4 @@ Her gün kullanmadığın aşina olmadığın bir programlama dili ile Sudoku ç
 ### Çözümler
 | Kaynak Kod    | Dil           |
 | ------------- |:-------------:|
+|https://github.com/mennan/sudoku-solver|JavaScript|
