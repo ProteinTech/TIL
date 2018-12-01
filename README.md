@@ -11,7 +11,8 @@ Her gün kullanmadığın aşina olmadığın bir programlama dili ile Sudoku ç
 * http://lipas.uwasa.fi/~timan/sudoku/s12c.txt (hard)
 
 ### Çözümler
-| Kaynak Kod    | Dil           |
-| ------------- |:-------------:|
-|https://github.com/mennan/sudoku-solver|JavaScript|
+| Kaynak Kod                               | Dil           |
+| ---------------------------------------- |:-------------:|
+|https://github.com/mennan/sudoku-solver   |JavaScript|
 |https://github.com/skarahoda/sudoku-solver|TypeScript|
+|https://github.com/se/sudoku-solver       |Go|
